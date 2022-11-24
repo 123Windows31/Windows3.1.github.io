@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.windows31.xyz</id>
+    <title>Windows 3.1</title>
+    <updated>2022-11-24T05:07:18.115Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://www.windows31.xyz"/>
+    <link rel="self" href="https://www.windows31.xyz/atom.xml"/>
+    <subtitle>有朋自远方来，虽远必诛</subtitle>
+    <logo>https://www.windows31.xyz/images/avatar.png</logo>
+    <icon>https://www.windows31.xyz/favicon.ico</icon>
+    <rights>All rights reserved 2022, Windows 3.1</rights>
+</feed>
